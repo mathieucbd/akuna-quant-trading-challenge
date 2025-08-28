@@ -6,7 +6,8 @@ The challenge simulated a simplified options market where the objective was to d
 
 ---
 
-**Challenge Structure***
+**Challenge Structure**
+
 **1. Binomial Option Pricing**
 - Implemented a binomial tree to compute theoretical values for European options.
 - Used as the baseline for assessing mispricing and guiding quotes.
