@@ -1,7 +1,7 @@
 # akuna-quant-trading-challenge
 Implementation of Akuna Capital's 2025 Quant Trading Challenge - algorithmic market making and PnL optimization in a simulated options market environment.
 
-This repository contains my submission for the Akuna Quant Trading Challenge.
+This repository contains both framework code provided by Akuna and my own implementation for the Akuna Quant Trading Challenge.
 The challenge simulated a simplified options market where the objective was to design a market making algorithm that maximizes profits while avoiding bankruptcy.
 
 ---
