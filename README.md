@@ -6,12 +6,12 @@ The challenge simulated a simplified options market where the objective was to d
 
 ---
 
-**Challenge Structure**
-1. Binomial Option Pricing
+**Challenge Structure***
+**1. Binomial Option Pricing**
 - Implemented a binomial tree to compute theoretical values for European options.
 - Used as the baseline for assessing mispricing and guiding quotes.
 
-3. Market Making Algorithm
+**2. Market Making Algorithm**
 - Main part of the project: design and implement a quoting strategy.
 - My approach was focused on:
   -> Volatility and time to maturity
@@ -19,7 +19,7 @@ The challenge simulated a simplified options market where the objective was to d
   -> Adaptive bid/ask spread that reacts to changing market conditions
 - Goal: dynamic, adaptive spreads suited to most situations, balancing competitiveness and risk.
 
-3. Risk Management
+**3. Risk Management**
 - Integrated a delta-hedging module to manage directional exposure.
 - Combined with spread adaptation to mitigate extreme outcomes.
 
